@@ -1,10 +1,10 @@
 # Hi,👋
 
 ## 🚀 About Me
-Software Engineer 👨‍💻 | Proficient in building scalable web applications with MERN Stack (ReactJS) & Android App Developer
+ Engineering Student 👨‍💻 | Proficient in building scalable web applications with MERN Stack (ReactJS) & Android App Developer
 
 ## 🛠 Skills
-React, MERN Stack, Android App, UI/UX, C/C++/Python/JS etc.
+ MERN Stack, Android App, UI/UX, C/C++/Python/JS etc.
 
 # 🏡 HouseRent - Android App
 
